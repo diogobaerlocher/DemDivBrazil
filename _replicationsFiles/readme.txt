@@ -1,0 +1,1 @@
+Run JEOA_tables to replicates tables 1 to 6 in the paper. Make sure to have the correct directory for the data JEOA_Data.
